@@ -1,0 +1,2 @@
+Prefix plugins/BANDIT/example/
+Plugin BANDIT inputfile parameters.txt outputfile output.txt
